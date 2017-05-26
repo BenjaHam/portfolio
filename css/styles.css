@@ -1,3 +1,30 @@
 h1 {
   text-align: center;
 }
+
+a {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+.projects {
+  padding-top: 20px;
+  font-size: 24px;
+}
+
+body {
+  background-color: #41494e;
+}
+
+.btn-dark {
+  background-color: #2a2f32;
+  border: solid #1c1f21 2px;
+  color: #6f7985;
+}
+
+h1 {
+  color: #1c1f21;
+}
