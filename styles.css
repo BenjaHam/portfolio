@@ -46,9 +46,22 @@ address {
 }
 
 address {
-  margin-top: 12px;
+  margin-top: 28px;
 }
 
 .img-rounded {
   border-radius: 18px;
+}
+
+.about-the-author p {
+  font-size: 12px;
+
+}
+
+.about-the-author h1 {
+  font-size: 24px;
+}
+
+.floating-text p {
+  float: left;
 }
