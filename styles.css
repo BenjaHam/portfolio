@@ -33,6 +33,7 @@ h1 {
 
 address {
   color: black;
+  font-size: 12px;
 }
 
 .jumbotron1 {
@@ -46,4 +47,8 @@ address {
 
 address {
   margin-top: 12px;
+}
+
+.img-rounded {
+  border-radius: 18px;
 }
