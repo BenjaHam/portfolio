@@ -32,3 +32,11 @@ h1 {
 address {
   color: black;
 }
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(35, 68, 87, 0.28);
+
+}
